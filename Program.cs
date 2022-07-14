@@ -14,10 +14,10 @@
             in7 = "  ";
             in8 = "  ";
 
-            Ekran(in1, in2, in3, in4, in5, in6, in7, in8);
+            InterfejsWitam(in1, in2, in3, in4, in5, in6, in7, in8);
 
         }
-        public static void Ekran(string in1, string in2, string in3, string in4, string in5, string in6, string in7, string in8)
+        public static void InterfejsWitam(string in1, string in2, string in3, string in4, string in5, string in6, string in7, string in8)
         {
             string Wiad1, Wiad2, Wiad3, Wiad4, Wiad5, Wiad6, Wiad7, Wiad8, Okno1, Okno2, Okno3, Okno4, Okno5, Okno6, Okno7, Okno8;
             Wiad1 = "INPUT FIELDS YOU'D LIKE TO PERFORM AN ACTION ON";
@@ -27,7 +27,7 @@
             Wiad5 = "PLEASE ENTER VALUE INTO FIELD 2";
             Wiad6 = "MOVE ";
             Wiad7 = "XCHG ";
-            Wiad8 = "NOT";
+            Wiad8 = "NEG";
             Okno1 = "|AL|";
             Okno2 = "|AH|";
             Okno3 = "|BL|";
